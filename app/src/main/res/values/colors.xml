@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="litherGray">#D3D3D3</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#008000</color>
+
+
+    
+    <array name="random_color">
+        <item name="color1" type ="color">#cee542</item>
+        <item name="color2" type ="color">#08f4cc</item>
+        <item name="color3" type ="color">#fbfbac</item>
+        <item name="color4" type ="color">#5aba87</item>
+        <item name="color5" type ="color">#f94460</item>
+        <item name="color6" type ="color">#7e198a</item>
+        <item name="color7" type ="color">#b50822</item>
+        <item name="color8" type ="color">#e28750</item>
+        <item name="color9" type ="color">#0ff389</item>
+        <item name="color10" type ="color">#c96623</item>
+        <item name="color11" type ="color">#434129</item>
+        <item name="color12" type ="color">#3f9f77</item>
+        <item name="color13" type ="color">#cf2221</item>
+        <item name="color14" type ="color">#0ba2cc</item>
+        <item name="color15" type ="color">#82984c</item>
+        <item name="color16" type ="color">#750126</item>
+
+
+
+    </array>
+</resources>
